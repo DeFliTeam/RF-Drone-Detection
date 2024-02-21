@@ -1,10 +1,4 @@
-# Passive RF Drone Detection for the Georgia Tech Police Department
-Team members:
-- Anya Bhatnagar
-- Kenneth Hyman
-- Frederic Faulkner
-- James Smith
-- Trevor Sorrells
+# Passive RF Drone Detection 
 
 ## Version 1.0.0
 This is the initial release of our drone detection device. Previous releases leading up to this have consisted of research, experiments and data visualization tools.
